@@ -16,9 +16,9 @@ Abra o terminal na pasta do projeto e utilize o comando:
 
 ## Endpoints disponíveis :
 
-GET:     localhost:8080/produto/produto-mais-caro
-GET:     localhost:8080/produto/media-preco-sem-desconto
-GET:     localhost:8080/produtos
-POST:    localhost:8080/produto
-PUT:     localhost:8080/produto/:ID
-DELETE:  localhost:8080/produto/:ID
+GET:     localhost:8080/produto/produto-mais-caro \
+GET:     localhost:8080/produto/media-preco-sem-desconto \
+GET:     localhost:8080/produtos \
+POST:    localhost:8080/produto \
+PUT:     localhost:8080/produto/:ID \
+DELETE:  localhost:8080/produto/:ID \
